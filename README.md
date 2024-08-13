@@ -13,8 +13,16 @@ I'm a Java Backend Developer transitioning into Data Science and AI. I have a pa
      A collection of Java backend projects demonstrating RESTful APIs, microservices, and database management.
 - [Machine Learning Projects](https://github.com/lakshmiprasanna-tech/machine-learning-projects):
      Machine learning projects covering supervised and unsupervised learning, model evaluation, and deployment.
-- [Data Science Projects](https://github.com/lakshmiprasanna-tech/data-science-projects):
+- [Data Science Projects](https://github.com/lakshmiprasanna-tech/datascience-projects):
      Data science projects focusing on data cleaning, exploratory data analysis (EDA), and visualization.
+- [Java projects](https://github.com/lakshmiprasanna-tech/java-projects):
+     A collection of Java based projects covering topics from core to advanced java.
+- [Python projects](https://github.com/lakshmiprasanna-tech/python-projects):
+    Python projects including data manipulation.
+- [SQL projects](https://github.com/lakshmiprasanna-tech/sql-projects):
+    SQL scripts including complex queries and data analysis techniques.
+- [AI projects](https://github.com/lakshmiprasanna-tech/ai-projects):
+    AI projects covering concepts like deep learning, Natural Language processing etc.
 
 
 ## 📫 Contact
