@@ -9,11 +9,11 @@ I'm a Java Backend Developer transitioning into Data Science and AI. I have a pa
 - **Tools:** Git, AWS
   
 ## 💻 Projects
-- [Java Backend Projects](https://github.com/lakshmi-prasanna-tech/java-backend-projects):
+- [Java Backend Projects](https://github.com/lakshmiprasanna-tech/java-backend-projects):
      A collection of Java backend projects demonstrating RESTful APIs, microservices, and database management.
-- [Machine Learning Projects](https://github.com/lakshmi-prasanna-tech/machine-learning-projects):
+- [Machine Learning Projects](https://github.com/lakshmiprasanna-tech/machine-learning-projects):
      Machine learning projects covering supervised and unsupervised learning, model evaluation, and deployment.
-- [Data Science Projects](https://github.com/lakshmi-prasanna-tech/data-science-projects):
+- [Data Science Projects](https://github.com/lakshmiprasanna-tech/data-science-projects):
      Data science projects focusing on data cleaning, exploratory data analysis (EDA), and visualization.
 
 
